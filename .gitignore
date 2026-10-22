@@ -1,0 +1,14 @@
+# Generated benchmark results
+benchmark_results.csv
+results/
+system_info.txt
+benchmark_report.md
+
+# Generated test data and output
+data/
+test_output.txt
+printf_output.txt
+
+# Python cache
+__pycache__/
+*.pyc
