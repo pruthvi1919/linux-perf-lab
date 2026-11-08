@@ -1,4 +1,4 @@
-# Outputs and comparison
+# Outputs and Comparison
 
 Screenshots captured during the LinuxPerfLab benchmarking work.
 
